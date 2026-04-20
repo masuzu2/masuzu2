@@ -44,6 +44,12 @@
 
 ---
 
+### 💬 Dev Quote
+
+[![Readme Quotes](https://quotes-github-profile.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+---
+
 ### 🐍 Contribution Snake
 
 <picture>
