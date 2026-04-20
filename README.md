@@ -44,9 +44,17 @@
 
 ---
 
-### 💬 Dev Quote
+### 🌙 About Me
 
-[![Readme Quotes](https://quotes-github-profile.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+```yaml
+name       : Mxsuzu
+location   : Thailand 🇹🇭
+role       : Full Stack Developer
+focus      : [ Web Apps, Automation Tools, UI/UX ]
+languages  : [ Python, JavaScript, Vue.js, HTML, CSS ]
+hobbies    : [ Coding, Gaming, Anime ]
+motto      : "Build tools that actually work 🛠️"
+```
 
 ---
 
