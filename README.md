@@ -68,9 +68,6 @@
   </tr>
 </table>
 
-<br/>
-
-> 🇹🇭 Based in Thailand &nbsp;|&nbsp; 🌙 Moon lover &nbsp;|&nbsp; 🎮 Gamer &nbsp;|&nbsp; ⚡ I ship fast
 
 ---
 
