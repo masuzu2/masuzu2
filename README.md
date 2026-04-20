@@ -46,15 +46,31 @@
 
 ### 🌙 About Me
 
-```yaml
-name       : Mxsuzu
-location   : Thailand 🇹🇭
-role       : Full Stack Developer
-focus      : [ Web Apps, Automation Tools, UI/UX ]
-languages  : [ Python, JavaScript, Vue.js, HTML, CSS ]
-hobbies    : [ Coding, Gaming, Anime ]
-motto      : "Build tools that actually work 🛠️"
-```
+<table border="0" align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=python,nodejs&theme=dark"/><br/><br/>
+      <b>⚙️ Backend</b><br/>
+      <sub>Python · Node.js · APIs · Automation</sub>
+    </td>
+    <td width="30"></td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=vue,react&theme=dark"/><br/><br/>
+      <b>🎨 Frontend</b><br/>
+      <sub>Vue.js · React · HTML · CSS</sub>
+    </td>
+    <td width="30"></td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=git,vscode&theme=dark"/><br/><br/>
+      <b>🛠️ DevTools</b><br/>
+      <sub>Git · GitHub · VSCode · Figma</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+> 🇹🇭 Based in Thailand &nbsp;|&nbsp; 🌙 Moon lover &nbsp;|&nbsp; 🎮 Gamer &nbsp;|&nbsp; ⚡ I ship fast
 
 ---
 
