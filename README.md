@@ -44,12 +44,6 @@
 
 ---
 
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=masuzu2&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8"/>
-
----
-
 ### 🐍 Contribution Snake
 
 <picture>
