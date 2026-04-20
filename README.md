@@ -1,30 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=130&section=header&text=Mxsuzu&fontSize=42&fontColor=ffffff&fontAlignY=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mxsuzu&fontSize=60&fontColor=ffffff&fontAlignY=55&desc=Thai%20Developer%20%7C%20Builder%20of%20Tools&descSize=18&descAlignY=75&animation=fadeIn" width="100%"/>
 
 <br/>
 
-**Thai developer · I build tools that actually work**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+tools+that+actually+work+%F0%9F%9B%A0%EF%B8%8F;Python+%7C+JavaScript+%7C+Vue.js;From+Thailand+%F0%9F%87%B9%F0%9F%87%AD+with+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+---
 
-<br/>
+### Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api?username=masuzu2&show_icons=true&hide_border=true&count_private=true&hide_title=true&theme=calm" height="145"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masuzu2&layout=compact&hide_border=true&theme=calm&langs_count=5" height="145"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,vue,html,css,git,github,vscode&theme=dark" />
+</p>
 
-<br/>
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=masuzu2&hide_border=true&theme=calm" height="145"/>
+### GitHub Stats
 
-<br/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=masuzu2&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&rank_icon=github" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masuzu2&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" height="165"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=80&section=footer" />
+<img src="https://streak-stats.demolab.com?user=masuzu2&theme=midnight-purple&hide_border=true" height="165"/>
+
+---
+
+### Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=masuzu2&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+
+---
+
+### Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masuzu2/masuzu2/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/masuzu2/masuzu2/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/masuzu2/masuzu2/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=masuzu2&style=flat-square&color=A78BFA&label=Profile+Views"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 </div>
