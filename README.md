@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+tools+that+actually+work+%F0%9F%9B%A0%EF%B8%8F;Python+%7C+JavaScript+%7C+Vue.js;From+Thailand+%F0%9F%87%B9%F0%9F%87%AD+with+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+tools+that+actually+work+%F0%9F%9B%A0%EF%B8%8F;Python+%7C+JavaScript+%7C+Vue.js;From+Thailand+%F0%9F%87%B9%F0%9F%87%AD+with+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
