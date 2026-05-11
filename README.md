@@ -9,7 +9,7 @@
 <br/>
 
 ```
-🧠  Full Stack Developer  |  🔧 Builder of useful tools  |  🌙 Moon lover
+🧠  Full Stack Developer  |  🔧 Builder of useful tools  
 ```
 
 <br/>
